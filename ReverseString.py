@@ -1,7 +1,5 @@
 # Accept string from user and print the reverse
 
-import string
-
 userInput = input("Enter a string: ")
 
 reverseString = ""
